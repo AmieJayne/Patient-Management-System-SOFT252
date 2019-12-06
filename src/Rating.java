@@ -1,4 +1,4 @@
-public class Rating {
+public class Rating {                               //patients create ratings
 
     private String doctorID;
     private int rating;

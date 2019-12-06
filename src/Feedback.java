@@ -1,5 +1,5 @@
-public class Feedback {
-
+public class Feedback {                             //admins create feedback based on ratings
+                                                    //feedback sent to doctors automatically
     private String doctorID;
     private String feedback;
 
